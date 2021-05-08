@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
+ I'm **Fahim** and I'm from **Bangladesh** 🇧🇩
 
-<!--
-**mahtamun-hoque-fahim/mahtamun-hoque-fahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/mahtamun-hoque-fahim/mahtamun-hoque-fahim.github.io/blob/main/assests/me.webp" height="300px">
 
-Here are some ideas to get you started:
+ I want to be a **full-stack web developer**. <br>
+ Currently , I'm learning **front-end** web development. <br>
+ Later, when I'd be ready and will be **true master** of **front-end** , I'll focus on **Backend** web development <br>
+ 
+Till then , stay with me <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+o' wait ! For now , I know ` HTML ` , `CSS` and `Bootstrap`. <br>
+Currently , I'm learning ` JavaScript`.<br>
+And trying to focus which would be better for me before I learn `Angular`, is it `React` or `Vue` ? <br>
+What do you think ?
+Tell anywhere else below :point_down: <br><br>
+
+> This readme is under maintainance ! 
+> So give me some time to add my social links  :sweat_smile:
