@@ -10,8 +10,9 @@
 Till then , stay with me <br>
 
 o' wait ! For now , I know ` HTML ` , `CSS` and `Bootstrap`. <br>
+Some say, I am the **grandmaster** of CSS <br>
 Currently , I'm learning ` JavaScript`.<br>
-And trying to focus which would be better for me before I learn `Angular`, is it `React` or `Vue` ? <br>
+And also trying to focus which would be better for me before I learn `Angular`: `React` or `Vue` ? <br>
 What do you think ?
 Tell anywhere else below :point_down: <br><br>
 
