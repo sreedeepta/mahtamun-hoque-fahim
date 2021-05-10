@@ -1,7 +1,7 @@
 # Hi there 👋
  I'm **Fahim** and I'm from **Bangladesh** 🇧🇩
 
-<img src="https://github.com/mahtamun-hoque-fahim/mahtamun-hoque-fahim.github.io/blob/main/assests/me.webp" height="300px">
+<img src="https://github.com/mahtamun-hoque-fahim/mahtamun-hoque-fahim.github.io/blob/main/assests/media/me.webp" height="300px">
 
  I want to be a **full-stack web developer**. <br>
  Currently , I'm learning **front-end** web development. <br>
