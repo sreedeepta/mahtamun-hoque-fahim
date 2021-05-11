@@ -20,8 +20,6 @@ Tell anywhere else below :point_down: <br><br>
 [![twitter logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/twitter.png)](https://twitter.com/mahtamunF)
 [![github logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/Vector.png)](https://github.com/mahtamun-hoque-fahim)  
 [![website logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/earth.png)](https://fahim.pages.dev) 
-<a href="https://facebook.com/mahtamunhoque.fahim" target="_blank" >![facebook logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/facebook.png)</a>
-[]() 
 
 > This readme is under maintainance ! 
 > So give me some time to add my social links  :sweat_smile:
