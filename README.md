@@ -1,5 +1,5 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- I'm **Fahim** and I'm from **Bangladesh** 🇧🇩
+#### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>
+### I am 16 year old **Fahim** from **Bangladesh** 🇧🇩
 
 <img src="https://github.com/mahtamun-hoque-fahim/mahtamun-hoque-fahim.github.io/blob/main/assests/media/me.webp">
 
@@ -30,4 +30,4 @@ Tell anywhere else below :point_down: <br>
 [//]: # (This is a comment.)
 
 > This readme is under maintainance ! 
-> So give me some time to add my social links  :sweat_smile:
+> So give me some time to add all of my social links  :sweat_smile:
