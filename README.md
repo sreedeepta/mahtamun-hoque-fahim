@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  I'm **Fahim** and I'm from **Bangladesh** 🇧🇩
 
-<img src="https://github.com/mahtamun-hoque-fahim/mahtamun-hoque-fahim.github.io/blob/main/assests/media/me.webp" height="300px">
+<img src="https://github.com/mahtamun-hoque-fahim/mahtamun-hoque-fahim.github.io/blob/main/assests/media/me.webp">
 
  I want to be a **full-stack web developer**. <br>
  Currently , I'm learning **front-end** web development. <br>
@@ -19,8 +19,9 @@ Tell anywhere else below :point_down: <br><br>
 [![facebook logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/facebook.png)](https://facebook.com/mahtamunhoque.fahim) 
 [![twitter logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/twitter.png)](https://twitter.com/mahtamunF)
 [![github logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/Vector.png)](https://github.com/mahtamun-hoque-fahim)  
-[![website logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/earth.png)](https://fahim.pages.dev)  
-
+[![website logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/earth.png)](https://fahim.pages.dev) 
+<a href="https://facebook.com/mahtamunhoque.fahim" target="_blank" >![facebook logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/facebook.png)</a>
+[]() 
 
 > This readme is under maintainance ! 
 > So give me some time to add my social links  :sweat_smile:
