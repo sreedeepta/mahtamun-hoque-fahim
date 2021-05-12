@@ -5,7 +5,7 @@
 
  I want to be a **full-stack web developer**. <br>
  Currently , I'm learning **front-end** web development. <br>
- Later, when I'd be ready and will be **true master** of **front-end** , I'll focus on **Backend** web development <br>
+ Later, when I'd be ready and will be true **master** of **front-end** , I'll focus on **Backend** web development <br>
  
 Till then , stay with me <br>
 
