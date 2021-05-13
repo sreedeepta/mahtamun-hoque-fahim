@@ -20,6 +20,8 @@ Tell anywhere else below :point_down: <br>
 <a href="https://twitter.com/mahtamunF/" target="_blank" ><img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/twitter.png" height="20px"></a> 
 <a href="https://github.com/mahtamun-hoque-fahim/" target="_blank" ><img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/Vector.png" height="20px"></a> 
 <a href="https://fahim.pages.dev" target="_blank" ><img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/earth.png" height="20px"></a>
+<a href="mailto:mahtamunhoquefahim@gmail.com" target="_blank" ><img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/mail.png" height="20px"></a>
+
 <!-- comment trick 1
 [![facebook logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/facebook.png)](https://facebook.com/mahtamunhoque.fahim) 
 [![twitter logo](https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/twitter.png)](https://twitter.com/mahtamunF)
