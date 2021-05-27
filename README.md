@@ -14,7 +14,7 @@ Some say, I am the **grandmaster** of CSS :sweat_smile: <br>
 Currently , I'm learning ` JavaScript`.<br>
 And also trying to focus which would be better for me before I learn `Angular`: `React` or `Vue` ? <br>
 What do you think ?
-Tell anywhere else below :point_down: <br>
+Tell me anywhere else below :point_down: <br>
 
 <a href="https://facebook.com/mahtamunhoque.fahim" target="_blank" ><img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/facebook.png" height="20px"></a> 
 <a href="https://twitter.com/mahtamunF/" target="_blank" ><img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon%20server/social%20icons/twitter.png" height="20px"></a> 
@@ -31,5 +31,4 @@ Tell anywhere else below :point_down: <br>
 [//]: # (comment trick 2)
 [//]: # (This is a comment.)
 
-> This readme is under maintainance ! 
-> So give me some time to add all of my social links  :sweat_smile:
+
