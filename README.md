@@ -11,7 +11,7 @@ Till then , stay with me <br>
 
 o' wait ! For now , I know ` HTML ` , `CSS` and `Bootstrap`. <br>
 Some say, I am the **grandmaster** of CSS :sweat_smile: <br>
-Currently , I'm learning ` JavaScript` and trying to dig inside dom and event handeling.<br>
+Currently , I'm learning `oop ` in ` JavaScript` and trying to dig inside dom and event handeling.<br>
 And also trying to choose which would be better for me before I learn `Angular`: `React` or `Vue` ? <br>
 What do you think ?
 Tell me anywhere else below :point_down: <br>
