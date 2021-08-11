@@ -1,7 +1,7 @@
 #### Hi there! <img src="https://github.com/mahtamun-hoque-fahim/server/blob/main/icon server/animated icons/hand.gif" width="30px"><br>
 ### I am 16 year old **Fahim** from **Bangladesh** 🇧🇩
 
-<img src="https://github.com/mahtamun-hoque-fahim/mahtamun-hoque-fahim.github.io/blob/main/assests/media/me.webp">
+<img src="https://github.com/mahtamun-hoque-fahim/mahtamun-hoque-fahim.github.io/blob/main/assets/media/personal/me-in-friends.jpg">
 
  I want to be a **full-stack web developer**. <br>
  Currently , I'm learning **front-end** web development. <br>
